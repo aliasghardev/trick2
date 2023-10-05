@@ -1,0 +1,22 @@
+*,*::after,*::before{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+@font-face{
+    font-family: mooli;
+    src: url(../font/Mooli-Regular.ttf);
+}
+body{
+    width: 100%;
+    font-family: mooli;
+}
+a,a:visited{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style-type: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
