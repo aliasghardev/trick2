@@ -4,7 +4,7 @@
 
 ![trick2](https://github.com/aliasghardev/trick2/assets/144837096/7ffc2280-8998-4ab6-a85f-a82bc19194a3)
 
-- [Demo Project](https://aliasghardev.github.io/trick1/)
+- [Demo Project](https://aliasghardev.github.io/trick2/)
 
 - Developed by aliasghar gholami
 
