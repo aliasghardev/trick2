@@ -2,7 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![trick2](https://github.com/aliasghardev/trick2/assets/144837096/7ffc2280-8998-4ab6-a85f-a82bc19194a3)
+
+https://github.com/aliasghardev/trick2/assets/144837096/6fdf6b96-7629-4fd7-9f94-5dea25057d46
 
 - [Demo Project](https://aliasghardev.github.io/trick2/)
 
